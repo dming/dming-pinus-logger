@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/node-pinus/pinus-logger.svg?branch=master)](https://travis-ci.org/node-pinus/pinus-logger)
 
-pinus-logger
+dming-pinus-logger
 ========
 
 pinus-logger is a [log4js](https://github.com/nomiddlename/log4js-node) wrapper for [pinus](https://github.com/mybios/pinus) which provides some useful features.  
